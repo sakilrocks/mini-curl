@@ -17,6 +17,7 @@ This project is a simple command line tool that makes HTTP requests and prints t
 
 ## Project Structure
 ```
+
 mini_curl/
 ├── Cargo.toml
 └── src/
